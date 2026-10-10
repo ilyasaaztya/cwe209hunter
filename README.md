@@ -23,7 +23,7 @@ A modular, scope-limited discovery and triage tool for possible **CWE-209: Gener
 ## Install from source
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/cwe209-hunter.git
+git clone https://github.com/ilyasaaztya/cwe209-hunter.git
 cd cwe209-hunter
 
 python3 -m venv .venv
